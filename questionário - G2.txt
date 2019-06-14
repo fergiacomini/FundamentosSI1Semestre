@@ -1,6 +1,6 @@
-1)	O que é o insumo, ou entrada, em um sistema de informação?
+﻿1)	O que é o insumo, ou entrada, em um sistema de informação?
 
-2)	Onde podemos coletar dados para sistemas alimentar sistemas? Explique e cite exemplos.
+2)	Onde podemos coletar dados para sistemas ? Explique e cite exemplos.
 
 3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
 
@@ -11,6 +11,7 @@
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
+R: Mantém o código fonte centralizado e seguro, facilita trabalho em equipes uma vez que todos possuem acesso ao mesmo código, realiza ‘merges’ automáticos, o que facilita a integração do código entre membros da equipe, mantém histórico com todas as alterações realizadas, permite retornar uma versão anterior do código com facilidade, permite integração com servidores de integração contínua, utilizado para automatizar o processo de deploy da aplicação.
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
 
