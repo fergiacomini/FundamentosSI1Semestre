@@ -11,13 +11,16 @@
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
+
 R: Mantém o código fonte centralizado e seguro, facilita trabalho em equipes uma vez que todos possuem acesso ao mesmo código, realiza ‘merges’ automáticos, o que facilita a integração do código entre membros da equipe, mantém histórico com todas as alterações realizadas, permite retornar uma versão anterior do código com facilidade, permite integração com servidores de integração contínua, utilizado para automatizar o processo de deploy da aplicação.
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 
-10)	Explique para que serve e as principais funcionalidades do Trello
+10)	Explique para que serve e as principais funcionalidades do Trello.
+
+R: O Trello é um sistema de quadro virtual para gerenciamento de tarefas que segue o método "kanban", muito usado no desenvolvimento com Scrum. Ele permite a criação de diversos quadros, nos quais podemos criar quantas colunas quisermos. Dentro de cada coluna é possível adicionar um ou mais "cards" (que são as tarefas propriamente ditas), contendo o conteúdo que o usuário desejar.
 
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
