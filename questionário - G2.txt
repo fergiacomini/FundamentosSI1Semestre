@@ -27,3 +27,5 @@ R: O Trello é um sistema de quadro virtual para gerenciamento de tarefas que se
 R: Slack. Ferramenta de comunicação. Criação de espaços. Criação de canais. Integração de plugins de produtividade. Integração de ferramentas, tais como o Trello. Equipes podem se comunicar rapidamente com mensagens de texto e voz, além de permitir o envio de vídeos e documentos, mantendo tudo organizado e centralizado. O conteúdo das conversas fica disponível apenas entre os membros da equipe, e o aplicativo permite saber quem já visualizou sua publicação.
 
 12)	Explique para que serve e as principais funcionalidades do Github.
+
+R: O Git é um sistema open-source de controle de versão utilizado pela grande maioria dos desenvolvedores atualmente. Com ele podemos criar todo histórico de alterações no código do nosso projeto e facilmente voltar para qualquer ponto para saber como o código estava naquela data.
