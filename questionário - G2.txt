@@ -1,5 +1,7 @@
 ﻿1)	O que é o insumo, ou entrada, em um sistema de informação?
 
+R: É a materia prima, transformação de dados em informações.
+
 2)	Onde podemos coletar dados para sistemas ? Explique e cite exemplos.
 
 R: Dados informados por usuarios, dados vindo de outros sistemas como API's, cadastro de usuario, validação de cpf no site da receita, only office.
