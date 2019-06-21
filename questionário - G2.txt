@@ -17,7 +17,7 @@ Designer tabalha com a parte grafica, a parte visual do sistema. Um botão, imag
 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 
-R: Responsável é o DBA(database adminstrator), ele deve ser agil em realizar manutenções e zelar pela integridade do banco de dados.
+R: Responsável é o DBA(database adminstrator) é responsável por gerenciar, instalar, configurar, atualizar e monitorar um banco de dados ou sistemas de bancos de dados.
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
