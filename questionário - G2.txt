@@ -16,6 +16,7 @@ R: Responsável é o DBA(database adminstrator), ele deve ser agil em realizar m
 R: Mantém o código fonte centralizado e seguro, facilita trabalho em equipes uma vez que todos possuem acesso ao mesmo código, realiza ‘merges’ automáticos, o que facilita a integração do código entre membros da equipe, mantém histórico com todas as alterações realizadas, permite retornar uma versão anterior do código com facilidade, permite integração com servidores de integração contínua, utilizado para automatizar o processo de deploy da aplicação.
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
+R: Pois você controla as metas necessárias, o trabalho fica mais organizado e produtivo,deixando o fluxo de projetos mais rápido. Você tem controle de quem esta fazendo determinada atividade e quais atividades ja foram realizadas.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 
