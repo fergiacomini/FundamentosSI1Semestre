@@ -4,6 +4,8 @@
 
 3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
 
+R: Backend trabalha com a parte de banco de dados e integração. Resumindo, a parte do Sistema que o usuario não consegue acessar, seja ele um códgo ou não. Frontend trabalha com interfaces e códigos parte que o usuario consegue interagir. Full é o desenvolvedor que trabalha com Backend e Frontend.   
+
 4)	Qual a diferença entre frontend e designer?
 
 R: Frontend trabalha com interface, mais focado na parte de algoritmo e interação do Frontend com Backend.
