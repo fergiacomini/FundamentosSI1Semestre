@@ -6,10 +6,15 @@
 
 4)	Qual a diferença entre frontend e designer?
 
+R: Frontend trabalha com interface, mais focado na parte de algoritmo e interação do Frontend com Backend.
+Designer tabalha com a parte grafica, a parte visual do sistema. Um botão, imagem e etc. 
+
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
+
 R: Responsável é o DBA(database adminstrator), ele deve ser agil em realizar manutenções e zelar pela integridade do banco de dados.
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
+
 R: Dados do Emitente (você); Dados do Destinatário (seu cliente); Produto(s) ou Serviço(s) vendido(s); Nome do Produto ou Serviço; Tipo; Quantidade; Valor;   Unitário; Valor Total; Peso Líquido Total; Peso Bruto Total; NCM; CEST (Código Especificador de Substituição Tributária); Tributação:; ICMS; Situação Tributária; Origem; Natureza da operação; Forma de pagamento; CFOP (Códigos Fiscais de Operações e Prestações); Base de Cálculo do ICMS; Valor Total do ICMS; Base de Cálculo do ICMS ST; Valor Total do ICMS ST; Valor Total dos produtos e serviços; Valor Total do Frete; Valor Total do Seguro; Valor Total do Desconto; Outras Despesas acessórias; Valor Total da NF-e; Valor aproximado total de tributos federais, estaduais e municipais.
 
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
