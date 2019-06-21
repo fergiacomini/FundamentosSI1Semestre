@@ -19,6 +19,19 @@ R: Mantém o código fonte centralizado e seguro, facilita trabalho em equipes u
 R: Pois você controla as metas necessárias, o trabalho fica mais organizado e produtivo,deixando o fluxo de projetos mais rápido. Você tem controle de quem esta fazendo determinada atividade e quais atividades ja foram realizadas.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
+R:
+Fase de Diagnóstico: Origem do problema, particularidades da situação atual do problema, prazo estipulado para a solução deste problema, exigência geradas por este problema, abrangência deste problema, disponibilidade de orçamento para investimento em soluções, urgência de uma solução para este problema.
+ 
+Levantamento e Análise de requisitos: Nesta fase de Levantamento e Análise de requisitos, deve-se pensar em alternativas de solução. Exige muito cuidado e atenção por parte do time de desenvolvimento. Ou seja, é extremamente importante que nenhum detalhe ou requisito seja esquecido ou deixado de lado.
+Caso contrário, o desenvolvimento pode ser interrompido e o produto final pode sofrer com alterações inesperadas ou prazos alterados.
+Após o levantamento de requisitos, é feita a análise. Análise consiste na definição de atividades, alocações de membros, definição de prazos, entre outros.
+E por fim, é feita uma breve validação. Essa validação é feita avaliando-se a eficiência e relevância de todos os requisitos levantados.
+
+Fase de Desenvolvimento: Os grupos se organizam, as tarefas são organizadas, e os responsáveis iniciam o desenvolvimento do software. Um dos métodos ágeis mais conhecido é chamado de Scrum.
+O método Scrum consiste na divisão do projeto todo em atividades menores, e na execução simultânea destas atividades menores (em curtos períodos de tempo, os chamados “sprints”).
+Ao mesmo tempo são feitos testes validando a funcionalidade de cada módulo.
+
+Etapa de Implantação: O código é instalado no ambiente do cliente (sistema operacional, servidor específico, entre outros). São criados Manuais do Sistema, que auxiliam o entendimento do produto final. Estes materiais facilitam um possível treinamento para as pessoas que usarão futuramente o novo software. E caso necessário, também é realizada uma migração/importação de dados e informações antigas para o novo software.
 
 10)	Explique para que serve e as principais funcionalidades do Trello.
 
